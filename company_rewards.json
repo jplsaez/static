@@ -21,14 +21,11 @@
 	"dfa46fa957a4c401a85d91da3bdcd3362cc27060": {
 		"rewardAmount": "20000000000000000",
 		"ipfsFiles": [
+			"QmVWi2tPVB7iKPQVs6CP9r49PWtGyryHpDMA1RURoBLR23"
 		],
 		"userRewards": [
 			{
 				"user": "0x03005c5E5AC31e94346dDB0606231BD58A771Ee4",
-				"rewardBalance": "10000000000000000"
-			},
-			{
-				"user": "0xcF1e7a43127781869F72F4e1d3ed724460b339c4",
 				"rewardBalance": "10000000000000000"
 			}
 		],
